@@ -1,5 +1,3 @@
-# CS255Portfolio
-
 # Project Summary
 
 The DriverPass project focused on planning a comprehensive management platform for Liam's driving school, alongside his technical officer, Ian. The client needed a secure, cloud-hosted web application to replace manual paper scheduling, automate customer registrations, manage driver training packages, and help lower high student exam failure rates. The system was designed to coordinate two-hour behind-the-wheel driving lessons by matching students with available instructors and vehicles from a ten-car fleet without double-booking. The platform also features an online e-learning portal linked directly to Department of Motor Vehicles data feeds for real-time exam practice, as well as distinct access levels for five user groups ranging from students to administrators.
